@@ -1,4 +1,4 @@
-.home_page#csoon{
+.home_page#wall{
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -9,4 +9,5 @@
 	top : 30%;
 	left: 20%;
 	width: 65%;
+	display: none;
 }
