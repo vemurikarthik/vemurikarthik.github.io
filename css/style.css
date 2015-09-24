@@ -4,15 +4,3 @@
 	height: 100%;
 	z-index: -1;
 }
-.home_page#paint{
-	position: absolute;
-	top : 30%;
-	left: 20%;
-	width: 65%;
-}
-.home_page#sign_board{
-	position: absolute;
-	top : 35%;
-	width: 30%;
-	height: 50%;
-}
